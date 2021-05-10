@@ -54,11 +54,11 @@
 
 <!-- YOUTUBE:START -->
 
-- [7 Tips to BECOME a MUCH BETTER DEVELOPE](https://youtu.be/LeQvA7re3KI)
-- [7 Tips to BECOME a MUCH BETTER DEVELOPE](https://youtu.be/LeQvA7re3KI)
-- [7 Tips to BECOME a MUCH BETTER DEVELOPE](https://youtu.be/LeQvA7re3KI)
-- [7 Tips to BECOME a MUCH BETTER DEVELOPE](https://youtu.be/LeQvA7re3KI)
-- [7 Tips to BECOME a MUCH BETTER DEVELOPE](https://youtu.be/LeQvA7re3KI)
+- [7 Tips to BECOME a MUCH BETTER DEVELOPER](https://youtu.be/LeQvA7re3KI)
+- [Study With Me - 2 Hours](https://youtu.be/HYoxr3OmV54)
+- [AVOID These 5 Things to become better at what you do](https://youtu.be/yZRP3y1GT3A)
+- [Top 5 Programming Languages for 2021](https://youtu.be/cfJc3rXUYeA)
+- [EASY Steps To Get Into Programming](https://youtu.be/7ukvF6penoQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/crytonandrew)
