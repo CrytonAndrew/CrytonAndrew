@@ -2,12 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrew_cryton?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Student and Developer!!
+## I'm a Full Stack Developer!!
 
-- 👨🏽‍💻 I am currently working on freelance client work
+- 👨🏽‍💻 Always on my computer
 - 🌱 I am always learning a everything 🙈😂
-- 🥅 2021 Goals: Upload more content to my [Youtube channel][youtube]
-- ⚡ Hobbies: Content creation and Playing Guitar
+- 🥅 2024: Do better than myself in 2023
+- ⚡ Hobbies: Fitness and Everything outdoors
 
 ### Spotify Playing 🎧
 
